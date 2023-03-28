@@ -1,0 +1,6 @@
+Name: Tenzin Lungten
+Student ID: 101234923
+Git repository created from Azure  instance
+
+GitHub Repo Link:
+https://github.com/lungtent23/101234923_COMP_2156_assignment2
